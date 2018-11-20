@@ -1,5 +1,6 @@
 % Jonathan Friedman 4799380
 % CIE4604 Assignment 1
+% test
 dt = 1;
 q = 0.5;
 n = 2000; % length of walk
